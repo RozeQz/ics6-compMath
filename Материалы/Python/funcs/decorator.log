@@ -1,0 +1,8 @@
+num = 4, result = 25
+num = 3, result = 14
+func = "summator"; result = 10
+func = "mod_taker"; result = [1, 2, 0, 1]
+num = 4, result = 25
+num = 3, result = 14
+func = "summator"; result = 10
+func = "mod_taker"; result = [1, 2, 0, 1]
